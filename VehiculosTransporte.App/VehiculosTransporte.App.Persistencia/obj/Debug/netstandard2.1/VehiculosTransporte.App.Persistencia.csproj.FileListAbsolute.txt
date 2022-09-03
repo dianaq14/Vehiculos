@@ -1,0 +1,12 @@
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\bin\Debug\netstandard2.1\VehiculosTransporte.App.Persistencia.deps.json
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\bin\Debug\netstandard2.1\VehiculosTransporte.App.Persistencia.dll
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\bin\Debug\netstandard2.1\VehiculosTransporte.App.Persistencia.pdb
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\bin\Debug\netstandard2.1\VehiculosTransporte.App.Dominio.dll
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\bin\Debug\netstandard2.1\VehiculosTransporte.App.Dominio.pdb
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\obj\Debug\netstandard2.1\VehiculosTransporte.App.Persistencia.csprojAssemblyReference.cache
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\obj\Debug\netstandard2.1\VehiculosTransporte.App.Persistencia.AssemblyInfoInputs.cache
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\obj\Debug\netstandard2.1\VehiculosTransporte.App.Persistencia.AssemblyInfo.cs
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\obj\Debug\netstandard2.1\VehiculosTransporte.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\obj\Debug\netstandard2.1\VehiculosTransporte.App.Persistencia.csproj.CopyComplete
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\obj\Debug\netstandard2.1\VehiculosTransporte.App.Persistencia.dll
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\obj\Debug\netstandard2.1\VehiculosTransporte.App.Persistencia.pdb

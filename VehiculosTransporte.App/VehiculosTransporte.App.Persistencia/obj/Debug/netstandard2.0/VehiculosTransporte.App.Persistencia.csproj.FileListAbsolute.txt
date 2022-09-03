@@ -1,0 +1,4 @@
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\obj\Debug\netstandard2.0\VehiculosTransporte.App.Persistencia.csprojAssemblyReference.cache
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\obj\Debug\netstandard2.0\VehiculosTransporte.App.Persistencia.AssemblyInfoInputs.cache
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\obj\Debug\netstandard2.0\VehiculosTransporte.App.Persistencia.AssemblyInfo.cs
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Persistencia\obj\Debug\netstandard2.0\VehiculosTransporte.App.Persistencia.csproj.CoreCompileInputs.cache

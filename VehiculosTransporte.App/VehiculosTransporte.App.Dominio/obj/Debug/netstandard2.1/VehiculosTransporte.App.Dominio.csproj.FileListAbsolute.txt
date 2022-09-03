@@ -1,0 +1,9 @@
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Dominio\bin\Debug\netstandard2.1\VehiculosTransporte.App.Dominio.deps.json
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Dominio\bin\Debug\netstandard2.1\VehiculosTransporte.App.Dominio.dll
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Dominio\bin\Debug\netstandard2.1\VehiculosTransporte.App.Dominio.pdb
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Dominio\obj\Debug\netstandard2.1\VehiculosTransporte.App.Dominio.csprojAssemblyReference.cache
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Dominio\obj\Debug\netstandard2.1\VehiculosTransporte.App.Dominio.AssemblyInfoInputs.cache
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Dominio\obj\Debug\netstandard2.1\VehiculosTransporte.App.Dominio.AssemblyInfo.cs
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Dominio\obj\Debug\netstandard2.1\VehiculosTransporte.App.Dominio.csproj.CoreCompileInputs.cache
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Dominio\obj\Debug\netstandard2.1\VehiculosTransporte.App.Dominio.dll
+C:\VehiculosTransporte\VehiculosTransporte.App\VehiculosTransporte.App.Dominio\obj\Debug\netstandard2.1\VehiculosTransporte.App.Dominio.pdb
