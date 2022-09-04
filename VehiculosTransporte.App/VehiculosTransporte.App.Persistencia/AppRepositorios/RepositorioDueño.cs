@@ -1,5 +1,5 @@
 using System;
-using Syste.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 using VehiculosTransporte.App.Dominio;
 using Microsoft.EntityFrameworkCore;
