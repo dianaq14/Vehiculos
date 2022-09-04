@@ -8,7 +8,7 @@ using VehiculosTransporte.App.Dominio;
 namespace VehiculosTransporte.App.Persistencia
 {
 
-    public interface RepositoriosDueño
+    public interface IRepositoriosDueño
     {
         IEnumerable <Dueño> GetAllDueños();
         Dueño AddDueño (Dueño dueño);
