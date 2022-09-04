@@ -12,8 +12,8 @@ namespace VehiculosTransporte.App.Persistencia
     {
         IEnumerable <Dueño> GetAllDueños();
         Dueño AddDueño (Dueño dueño);
-        Dueño UpdateDueño{Dueño dueño};
-        void DeleteDueño {int idDueño};
+        Dueño UpdateDueño(Dueño dueño);
+        void DeleteDueño (int idDueño);
 
 
         IEnumerable<Dueño> GetAllDueñosPorFiltro(string filtro);
