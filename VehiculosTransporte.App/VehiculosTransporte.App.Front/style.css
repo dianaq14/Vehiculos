@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu_fondo
+{
+    background-color: rgb(107, 98, 187);
+}
+.header .menu i,
+.header .menu a{
+    color:  rgb(107, 98, 187);
+}
+.header .menu a:hover{
+    color: whitesmoke;
+}
+.header .menu form input[type="text"]{
+    
+}
