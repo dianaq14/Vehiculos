@@ -1,12 +1,12 @@
 using System;
-using Syste.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 using VehiculosTransporte.App.Dominio;
 using Microsoft.EntityFrameworkCore;
 
 namespace VehiculosTransporte.App.Persistenica
 {
-    public class RepositorioDueño :IRepositorioDueño
+    public class RepositorioDueno :IRepositorioDueno
     {
         ///<sumary>
         ///Referencia contexto de Dueño
@@ -19,54 +19,54 @@ namespace VehiculosTransporte.App.Persistenica
         ///<sumary>
         ///<param name "appContext" ></param>//
 
-        public RepositorioDueño (AppContext appContext)
+        public RepositorioDueno (AppContext appContext)
         {
             _appContext = appContext;
         }
 
-        public Dueño AddDueño (Dueño dueño)
+        public Dueno AddDueno (Dueño dueno)
         {
-            var dueñoAdicionado = _appContext.Dueños.Add(dueño);
+            var duenoAdicionado = _appContext.Dueños.Add(dueno);
             _appContext.SaveChanges();
-            return dueñoAdicionado.Entity;
+            return duenoAdicionado.Entity;
         }
         
-        public void DeleteDueño (int idDueño)
+        public void DeleteDueno (int idDueno)
         {
-            var dueñoEncontrado = _appContext.Dueños.FirstOrDefault(d=>d.Id==idDueño);
-            if (dueñoEncontrado ==null)
+            var duenoEncontrado = _appContext.Duenos.FirstOrDefault(d=>d.Id==idDueno);
+            if (duenoEncontrado ==null)
                 return;
-            _appContext.Dueños.Remove(dueñoEncontrado);
+            _appContext.Duenos.Remove(duenoEncontrado);
             _appContext.SaveChanges();
         }
 
-        public IEnumerable<Dueño> GetAllDueños()
+        public IEnumerable<Dueño> GetAllDuenos()
         {
-            return GetAllDueños_();
+            return GetAllDuenos_();
         }
 
-        public IEnumerable<Dueño> GetAllDueñosPorFiltro(string filtro)
+        public IEnumerable<Dueno> GetAllDuenosPorFiltro(string filtro)
         {
-            var dueños = GetAllDueños(); 
+            var duenos = GetAllDueños(); 
             if(!String.IsNullOrEmpty(filtro))
             {
-                dueños= dueños.Where(s=> s.Nombres.Contains(filtro));
+                duenos= duenos.Where(s=> s.Nombres.Contains(filtro));
             }
         }
 
-        public Dueño UpdateDueño (Dueño dueño)
+        public Dueno UpdateDueño (Dueno dueno)
         {
-            var dueñoEncontrado =_appContext.Dueños.FirstOrDefault(d=>d.Id == dueño.Id);
-            if(dueñoEncontrado != null)
+            var duenoEncontrado =_appContext.Duenos.FirstOrDefault(d=>d.Id == dueno.Id);
+            if(duenoEncontrado != null)
             {
-                dueñoEncontrado.Nombres = dueño.Nombres;
-                dueñoEncontrado.Telefono = dueño.Telefono;
-                dueñoEncontrado.Email= dueño.Email;
+                duenoEncontrado.Nombres = dueno.Nombres;
+                duenoEncontrado.Telefono = dueno.Telefono;
+                duenoEncontrado.Email= dueno.Email;
 
 
                 _appContext.SaveChanges();
             }
-            return dueñoEncontrado;
+            return duenoEncontrado;
         }
 
     }
