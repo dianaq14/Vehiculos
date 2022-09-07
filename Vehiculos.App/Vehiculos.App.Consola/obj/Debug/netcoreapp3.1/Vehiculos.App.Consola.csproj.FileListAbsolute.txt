@@ -1,0 +1,4 @@
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Consola\obj\Debug\netcoreapp3.1\Vehiculos.App.Consola.csprojAssemblyReference.cache
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Consola\obj\Debug\netcoreapp3.1\Vehiculos.App.Consola.AssemblyInfoInputs.cache
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Consola\obj\Debug\netcoreapp3.1\Vehiculos.App.Consola.AssemblyInfo.cs
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Consola\obj\Debug\netcoreapp3.1\Vehiculos.App.Consola.csproj.CoreCompileInputs.cache

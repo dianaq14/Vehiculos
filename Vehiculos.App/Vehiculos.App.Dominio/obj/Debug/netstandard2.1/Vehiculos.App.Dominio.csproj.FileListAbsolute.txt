@@ -1,0 +1,9 @@
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Dominio\obj\Debug\netstandard2.1\Vehiculos.App.Dominio.csprojAssemblyReference.cache
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Dominio\obj\Debug\netstandard2.1\Vehiculos.App.Dominio.AssemblyInfoInputs.cache
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Dominio\obj\Debug\netstandard2.1\Vehiculos.App.Dominio.AssemblyInfo.cs
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Dominio\obj\Debug\netstandard2.1\Vehiculos.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Dominio\bin\Debug\netstandard2.1\Vehiculos.App.Dominio.deps.json
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Dominio\bin\Debug\netstandard2.1\Vehiculos.App.Dominio.dll
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Dominio\bin\Debug\netstandard2.1\Vehiculos.App.Dominio.pdb
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Dominio\obj\Debug\netstandard2.1\Vehiculos.App.Dominio.dll
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Dominio\obj\Debug\netstandard2.1\Vehiculos.App.Dominio.pdb
