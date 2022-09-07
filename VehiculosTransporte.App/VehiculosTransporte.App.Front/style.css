@@ -1,19 +1,146 @@
 *{
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-.menu_fondo
-{
-    background-color: rgb(107, 98, 187);
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #e8e8e8;
+    background-color: #e8e8e8;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3E%3Cg fill='%23c1aee0' fill-opacity='0.21'%3E%3Cpath fill-rule='evenodd' d='M0 0h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g%3E%3C/svg%3E");
 }
-.header .menu i,
-.header .menu a{
-    color:  rgb(107, 98, 187);
+
+.titulo{
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
-.header .menu a:hover{
-    color: whitesmoke;
+.menu{
+    list-style: none;
+    padding: 0;
+    background-color: #092327;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
 }
-.header .menu form input[type="text"]{
-    
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
 }
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background: #ef8354;
+}
+
+.boton{
+    cursor: pointer;
+    display: inline-block;
+    border: 0;
+    font-weight: bold;
+    padding: 10px 20px;
+    color: #b2c6f1;;
+    font-size: 15px;
+    border: 1px solid #b2c6f1;
+    margin: 1px 0;
+}
+
+.boton :hover{
+    opacity: .7;
+    background-color: #b2c6f1;
+}
+
+.contenido{
+    width: 90%;
+    margin: auto;
+}
+
+.nav-main{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.slider{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+.slider ul{
+    display: flex;
+    animation: cambio 30s infinite;
+    width: 300%;
+}
+
+.slider li{
+    width: 100%;
+    list-style: none;
+}
+
+.slider img{
+    width: 100%;
+    height: 100%;
+}
+
+@keyframes cambio{
+    0%{margin-left: 0;}
+    20%{margin-left: 0;}
+
+    25%{margin-left: -100%;}
+    45%{margin-left: -100%;}
+    50%{margin-left: -200%;}
+}
+
+.btn{
+    border: none;
+    background-color: #ef8354;
+    flex-basis: 33%;
+    cursor: pointer;
+}
+
+.piefoto{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.social{
+    margin: 50px;
+}
+
+.social p{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links a{
+    margin: 0 30px;
+}
+
+.links a i{
+    font-size: 3rem;
+}
+
+.contenido{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.contenido .showcase{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
