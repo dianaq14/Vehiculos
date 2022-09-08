@@ -1,7 +1,7 @@
 using System;
-namespace VehiculosTransporte.App.Dominio
+namespace Vehiculos.App.Dominio
 {
-    public class Dueno: Persona
+    public class Duenio: Persona
     {
         public string CiudadResidencia {get; set;}
         public string Email {get; set;}

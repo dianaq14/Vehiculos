@@ -1,7 +1,7 @@
 ﻿using System;
-using VehiculosTransporte.App.Dominio;
+using Vehiculos.App.Dominio;
 
-namespace VehiculosTransporte.App.Consola
+namespace Vehiculos.App.Consola
 {
     class program 
     {

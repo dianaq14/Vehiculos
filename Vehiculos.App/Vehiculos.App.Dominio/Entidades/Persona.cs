@@ -1,5 +1,5 @@
  using System;
- namespace VehiculosTransporte.App.Dominio
+ namespace Vehiculos.App.Dominio
 
 {
      public class Persona

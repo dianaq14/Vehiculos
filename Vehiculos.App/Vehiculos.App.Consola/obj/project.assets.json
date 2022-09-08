@@ -1508,6 +1508,35 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Vehiculos.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Vehiculos.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vehiculos.App.Dominio.dll": {}
+        }
+      },
+      "Vehiculos.App.Persistencia/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
+          "Vehiculos.App.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Vehiculos.App.Persistencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vehiculos.App.Persistencia.dll": {}
+        }
       }
     }
   },
@@ -5752,12 +5781,24 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Vehiculos.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Vehiculos.App.Dominio/Vehiculos.App.Dominio.csproj",
+      "msbuildProject": "../Vehiculos.App.Dominio/Vehiculos.App.Dominio.csproj"
+    },
+    "Vehiculos.App.Persistencia/1.0.0": {
+      "type": "project",
+      "path": "../Vehiculos.App.Persistencia/Vehiculos.App.Persistencia.csproj",
+      "msbuildProject": "../Vehiculos.App.Persistencia/Vehiculos.App.Persistencia.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
+      "Vehiculos.App.Dominio >= 1.0.0",
+      "Vehiculos.App.Persistencia >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5783,7 +5824,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Vehiculos\\Vehiculos.App\\Vehiculos.App.Dominio\\Vehiculos.App.Dominio.csproj": {
+              "projectPath": "C:\\Vehiculos\\Vehiculos.App\\Vehiculos.App.Dominio\\Vehiculos.App.Dominio.csproj"
+            },
+            "C:\\Vehiculos\\Vehiculos.App\\Vehiculos.App.Persistencia\\Vehiculos.App.Persistencia.csproj": {
+              "projectPath": "C:\\Vehiculos\\Vehiculos.App\\Vehiculos.App.Persistencia\\Vehiculos.App.Persistencia.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

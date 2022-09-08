@@ -1,9 +1,10 @@
 using System; 
-namespace VehiculosTransporte.App.Dominio
+namespace Vehiculos.App.Dominio
 {
-     public class Cliente
+     public class cliente: Persona
     {
         public int id{get; set;}
+        public List <Servicios> Servicio {get; set;}
 
     }
 }

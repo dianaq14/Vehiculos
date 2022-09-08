@@ -1,7 +1,7 @@
 using System;
-namespace VehiculosTransporte.App.Dominio
+namespace Vehiculos.App.Dominio
 {
-    public class Transporte : Persona
+    public class VehiculosTransporte
     {
         public int placa{get; set;}
         public string marca {get; set;}
@@ -9,9 +9,9 @@ namespace VehiculosTransporte.App.Dominio
         public string tipo {get; set;}
         public string CapacidadPasajeros {get; set; }
         public string PaisOrigen {get; set;}
-        public Dueno Dueno {get; set;}
-        public Mecanico Mecanico {get; set;}
-        public Conductor Conductor {get; set;}
         public int cilindraje_motor {get; set;}
+        public Duenio duenios {get; set;}
+        public Conductor Conductores {get; set;}
+        
     }    
 }

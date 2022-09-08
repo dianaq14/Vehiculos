@@ -1,9 +1,10 @@
 using System; 
-namespace VehiculosTransporte.App.Dominio
+namespace Vehiculos.App.Dominio
 {
     public class Conductor: Persona
     {
         public string Licencia {get; set;}
         public string CiudadResidencia {get; set;}
+        public List <VehiculosTransporte> VehiculoTransporte {get; set;}
     }
 }

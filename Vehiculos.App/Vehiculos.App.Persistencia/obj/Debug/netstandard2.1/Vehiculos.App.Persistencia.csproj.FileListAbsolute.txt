@@ -2,3 +2,11 @@ C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\obj\Debug\netstandard2.1\V
 C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\obj\Debug\netstandard2.1\Vehiculos.App.Persistencia.AssemblyInfoInputs.cache
 C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\obj\Debug\netstandard2.1\Vehiculos.App.Persistencia.AssemblyInfo.cs
 C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\obj\Debug\netstandard2.1\Vehiculos.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\bin\Debug\netstandard2.1\Vehiculos.App.Persistencia.deps.json
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\bin\Debug\netstandard2.1\Vehiculos.App.Persistencia.dll
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\bin\Debug\netstandard2.1\Vehiculos.App.Persistencia.pdb
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\bin\Debug\netstandard2.1\Vehiculos.App.Dominio.dll
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\bin\Debug\netstandard2.1\Vehiculos.App.Dominio.pdb
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\obj\Debug\netstandard2.1\Vehiculos.App.Persistencia.csproj.CopyComplete
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\obj\Debug\netstandard2.1\Vehiculos.App.Persistencia.dll
+C:\Vehiculos\Vehiculos.App\Vehiculos.App.Persistencia\obj\Debug\netstandard2.1\Vehiculos.App.Persistencia.pdb
